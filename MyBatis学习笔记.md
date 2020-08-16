@@ -5,6 +5,8 @@
 2. MyBatis 免除了几乎所有的 JDBC 代码以及设置参数和获取结果集的工作。
 3. MyBatis 可以通过简单的 XML 或注解来配置和映射原始类型、接口和 Java POJO（Plain Old Java Objects，普通老式 Java 对象）为数据库中的记录。
 
+<!-- more -->
+
 ####现有的持久化技术对比
 1）JDBC
 	SQL和JAVA代码在一起，耦合度高。
